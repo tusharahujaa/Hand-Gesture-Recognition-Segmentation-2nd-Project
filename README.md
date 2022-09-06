@@ -1,6 +1,6 @@
 # Hand Gesture Recognition + Segmentation(2nd Project)
 
-This is an extension to the previous project based on Machine learning. In this project, I incorporated a segmentation approach by applying the MaskRCNN segmentation model along with transfer learning based VGG16, InceptionV3 and RESNET50 models. Remarkable accuracy of 97.87%, 98.08%, and 97.46% respectively were achieved.  
+This is an extension to my previous project based on Machine learning. In this project, I incorporated a segmentation approach by applying the MaskRCNN segmentation model along with transfer learning based VGG16, InceptionV3 and RESNET50 models. Remarkable accuracy of 97.87%, 98.08%, and 97.46% respectively were achieved.  
  
 ## Requirements
 ### Install Required Libraries
